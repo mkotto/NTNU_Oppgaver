@@ -1,0 +1,13 @@
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\bin\Debug\Innlevering02.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\bin\Debug\Innlevering02.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\bin\Debug\Innlevering02.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\obj\Debug\Innlevering02.csprojResolveAssemblyReference.cache
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\obj\Debug\Innlevering02.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\obj\Debug\Innlevering02.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\bin\Debug\Innlevering02.exe.manifest
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\bin\Debug\Innlevering02.application
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\obj\Debug\Innlevering02.exe.manifest
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering02\Innlevering02\obj\Debug\Innlevering02.application
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving02\Innlevering02\bin\Debug\Innlevering02.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving02\Innlevering02\obj\Debug\Innlevering02.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving02\Innlevering02\obj\Debug\Innlevering02.pdb
