@@ -1,0 +1,12 @@
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving03\Øving03\bin\Debug\Øving03.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving03\Øving03\bin\Debug\Øving03.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving03\Øving03\bin\Debug\Øving03.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving03\Øving03\obj\Debug\Øving03.csprojResolveAssemblyReference.cache
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving03\Øving03\obj\Debug\Øving03.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving03\Øving03\obj\Debug\Øving03.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Ny mappe\Oppgave01\Øving03\bin\Debug\Øving03.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Ny mappe\Oppgave01\Øving03\obj\Debug\Øving03.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Ny mappe\Oppgave01\Øving03\obj\Debug\Øving03.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Ny mappe\Oppgave01\Øving03\bin\Debug\Øving03.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Ny mappe\Oppgave01\Øving03\bin\Debug\Øving03.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Ny mappe\Oppgave01\Øving03\obj\Debug\Øving03.csprojResolveAssemblyReference.cache
