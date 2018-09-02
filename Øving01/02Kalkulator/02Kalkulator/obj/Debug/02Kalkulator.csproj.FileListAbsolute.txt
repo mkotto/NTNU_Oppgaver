@@ -1,0 +1,6 @@
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\02Kalkulator\02Kalkulator\bin\Debug\02Kalkulator.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\02Kalkulator\02Kalkulator\bin\Debug\02Kalkulator.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\02Kalkulator\02Kalkulator\bin\Debug\02Kalkulator.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\02Kalkulator\02Kalkulator\obj\Debug\02Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\02Kalkulator\02Kalkulator\obj\Debug\02Kalkulator.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\02Kalkulator\02Kalkulator\obj\Debug\02Kalkulator.pdb

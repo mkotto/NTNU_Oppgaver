@@ -1,0 +1,6 @@
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering01_Oppgave_02\Innlevering01_Oppgave_02\bin\Debug\Innlevering01_Oppgave_02.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering01_Oppgave_02\Innlevering01_Oppgave_02\bin\Debug\Innlevering01_Oppgave_02.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering01_Oppgave_02\Innlevering01_Oppgave_02\bin\Debug\Innlevering01_Oppgave_02.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering01_Oppgave_02\Innlevering01_Oppgave_02\obj\Debug\Innlevering01_Oppgave_02.csprojResolveAssemblyReference.cache
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering01_Oppgave_02\Innlevering01_Oppgave_02\obj\Debug\Innlevering01_Oppgave_02.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Innlevering01_Oppgave_02\Innlevering01_Oppgave_02\obj\Debug\Innlevering01_Oppgave_02.pdb
