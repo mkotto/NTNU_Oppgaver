@@ -1,0 +1,12 @@
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving04\Øving04\bin\Debug\Øving04.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving04\Øving04\bin\Debug\Øving04.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving04\Øving04\bin\Debug\Øving04.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving04\Øving04\obj\Debug\Øving04.csprojResolveAssemblyReference.cache
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving04\Øving04\obj\Debug\Øving04.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving04\Øving04\obj\Debug\Øving04.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving05\Øving04\bin\Debug\Øving04.exe.config
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving05\Øving04\obj\Debug\Øving04.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving05\Øving04\obj\Debug\Øving04.pdb
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving05\Øving04\obj\Debug\Øving04.csprojResolveAssemblyReference.cache
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving05\Øving04\bin\Debug\Øving04.exe
+C:\Users\dewda\OneDrive\Dokumenter\DEV\csharp\Øving05\Øving04\bin\Debug\Øving04.pdb
